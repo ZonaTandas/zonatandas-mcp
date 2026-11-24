@@ -8,5 +8,6 @@
     "url": "https://zonatandas.es"
   },
   "license": "MIT",
-  "icon": ".claude-plugin/icon.png"
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://zonatandas.es/privacy"
 }

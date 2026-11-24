@@ -2,7 +2,7 @@
   "name": "zonatandas",
   "version": "1.0.0",
   "description": "Gestiona tu panel y tu web de ZonaTandas desde Claude: actividades, reservas, reseñas, equipo y web propia.",
-  "homepage": "https://zonatandas.es/organizadores",
+  "homepage": "https://github.com/ZonaTandas/zonatandas-mcp",
   "author": {
     "name": "ZonaTandas",
     "url": "https://zonatandas.es"

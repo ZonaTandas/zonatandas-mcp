@@ -1,0 +1,11 @@
+{
+  "name": "zonatandas",
+  "owner": { "name": "ZonaTandas" },
+  "plugins": [
+    {
+      "name": "zonatandas",
+      "source": "./",
+      "description": "Gestiona tu panel y tu web de ZonaTandas desde Claude: actividades, reservas, reseñas, equipo y web propia."
+    }
+  ]
+}

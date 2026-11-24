@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zonatandas": {
+      "type": "http",
+      "url": "https://panel.zonatandas.es/mcp"
+    }
+  }
+}

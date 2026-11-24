@@ -2,5 +2,11 @@
   "name": "zonatandas",
   "version": "1.0.0",
   "description": "Gestiona tu panel y tu web de ZonaTandas desde Claude: actividades, reservas, reseñas, equipo y web propia.",
-  "homepage": "https://zonatandas.es/organizadores"
+  "homepage": "https://zonatandas.es/organizadores",
+  "author": {
+    "name": "ZonaTandas",
+    "url": "https://zonatandas.es"
+  },
+  "license": "MIT",
+  "icon": ".claude-plugin/icon.png"
 }
